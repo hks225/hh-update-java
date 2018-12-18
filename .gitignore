@@ -1,0 +1,10 @@
+allure-results/
+target/
+build/
+.settings/
+.idea
+.idea/workspace.xml
+.idea/**/workspace.xml
+*.iml
+.allure/
+messages*

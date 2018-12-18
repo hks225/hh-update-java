@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" parallel="tests">
+
+    <parameter name="startUrl" value="https://hh.ru"/>
+    <parameter name="login" value=""/>
+    <parameter name="password" value=""/>
+
+    <test name="Open Main Page test">
+        <classes>
+            <class name="test.UpdateTest"/>
+        </classes>
+    </test>
+
+</suite>
