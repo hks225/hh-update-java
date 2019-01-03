@@ -1,7 +1,7 @@
 # hh-update-java
 update you CV on hh.ru
 
-for run you need Java8 and maven
+for run you need Java8, Maven and Chrome
 
 1. git clone https://github.com/hks225/hh-update-java.git
 
